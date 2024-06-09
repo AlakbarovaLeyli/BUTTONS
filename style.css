@@ -1,0 +1,129 @@
+*, body{
+    box-sizing: border-box;
+    margin-top: 10px;
+    
+}
+
+body{
+    height: 100vh;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    
+}
+
+#my_button{
+    
+    width: 200px;
+    padding: 10px;
+    border: 2px solid blue;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 24px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+#my_button:hover{
+    background-color: blue;
+    color: white;
+}
+#my_button2{
+    
+    width: 200px;
+    padding: 10px;
+    border: 2px solid #f10b91;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 24px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+#my_button2:hover{
+    background-color: #f10b91;
+    color: white;
+}
+#my_button3{
+    
+    width: 200px;
+    padding: 10px;
+    border: 2px solid #d36865;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 24px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+#my_button3:hover{
+    background-color: #d36865;
+    color: white;
+}
+#my_button4{
+    
+    width: 200px;
+    padding: 10px;
+    border: 2px solid #208517;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 24px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+#my_button4:hover{
+    background-color: #208517;
+    color: white;
+}
+#my_button5{
+    
+    width: 200px;
+    padding: 10px;
+    border: 2px solid dodgerblue;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 24px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+#my_button5:hover{
+    background-color: dodgerblue;
+    color: white;
+}
+#my_button6{
+    
+    width: 200px;
+    padding: 10px;
+    border: 2px solid darkviolet;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 24px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+#my_button6:hover{
+    background-color: darkviolet;
+    color: white;
+}
+#my_button7{
+    
+    width: 200px;
+    padding: 10px;
+    border: 2px solid violet;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 24px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+#my_button7:hover{
+    background-color: violet;
+    color: white;
+}
+
+.head{
+    font-size: 70px;
+    text-align: center;
+   font-family: fantasy;
+}
+
+
